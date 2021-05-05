@@ -1,0 +1,13 @@
+.profile-container {
+  margin: 0 0 0 40px;
+}
+
+.profile-container h1 {
+  display: inline-block;
+  margin-right: 20px;
+  margin-top: 10px;
+}
+
+.profile-container button {
+  margin-bottom: 10px;
+}

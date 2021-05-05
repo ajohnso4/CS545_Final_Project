@@ -1,0 +1,37 @@
+header {
+  background-color: darkorchid;
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100vw;
+  text-align: center;
+  box-shadow: 2px 2px 2px lightgrey;
+  color: white;
+}
+
+.search {
+  background-color: rgb(168, 78, 212);
+  padding: 10px;
+  color: white;
+  border-radius: 10px;
+  margin-bottom: 10px;
+  width: 400px;
+}
+
+html {
+  margin-top: 220px;
+}
+
+.profile-button {
+  position: absolute;
+  top: 20px;
+  right: 20px;
+  color: lightblue;
+}
+
+.home-button {
+  position: absolute;
+  top: 20px;
+  left: 20px;
+  color: lightblue;
+}

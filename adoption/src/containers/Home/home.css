@@ -1,0 +1,15 @@
+.selectObj {
+  width: 200px;
+  margin-left: 30px;
+  margin-bottom: 20px;
+  border: 2px solid darkslateblue;
+  padding: 10px;
+  border-radius: 5px;
+  background-color: lightcyan;
+  text-decoration: none;
+}
+
+.gridForIm {
+  margin: 0 50px 0 50px;
+  padding: 50px;
+}
